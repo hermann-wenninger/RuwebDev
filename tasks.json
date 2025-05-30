@@ -1,6 +1,18 @@
 {
+  "hmann": {
+    "title": "hmann",
+    "status": "DONE"
+  },
   "writing": {
     "title": "writing",
     "status": "DONE"
+  },
+  "test": {
+    "title": "test",
+    "status": "DONE"
+  },
+  "testtest": {
+    "title": "testtest",
+    "status": "PENDING"
   }
 }
