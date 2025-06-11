@@ -33,6 +33,6 @@ npm run build
 docker compose up
 
 ## Commands
-- * + cli sqlx
-cargo install sqlx-cli
-sqlx migration add initial-setup
+
++ cargo install sqlx-cli
++ sqlx migration add initial-setup
