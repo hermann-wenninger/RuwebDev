@@ -31,3 +31,8 @@ npm run build
 
 ## start docker postgres image
 docker compose up
+
+## Commands
+- * + cli sqlx
+cargo install sqlx-cli
+sqlx migration add initial-setup
